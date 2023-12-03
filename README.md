@@ -1,0 +1,2 @@
+# K1Anemo_TABSpecialPan
+K1 Anemo TAB Special Pan工程是TheAtomicBomb对由IMT11D制作的K1 Anemo音色进行混音并重设音色库参数的一项工程，目的是让音频的虚拟空间更符合混音所期望的低音在中、高音广阔的声场。
